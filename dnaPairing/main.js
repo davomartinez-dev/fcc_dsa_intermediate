@@ -19,4 +19,7 @@ function pairElement(str) {
   return resultArray;
 }
 
+// Space Complexity -> O(n)
+// Time Complexity -> O(n)
+
 pairElement('GCG');
